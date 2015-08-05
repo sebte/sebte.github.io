@@ -4,7 +4,11 @@
  <title>Sebte| A simple Jekyll site to test little projets based on emeral template</title>
  <link href="http://sebte.github.io/atom.xml" rel="self"/>
  <id>http://sebte.github.io</id>
+<<<<<<< HEAD
  <updated>2015-07-31T13:42:27+02:00</updated>
+=======
+ <updated>2015-08-05T18:10:30+02:00</updated>
+>>>>>>> a33998509d019c9158d34ef7605a8182fc9e3a37
  <author>
    <name>Seb Te</name>
    <uri>http://sebte.github.io</uri>
@@ -44,11 +48,19 @@
  
 
  <entry>
+<<<<<<< HEAD
    <title>Un graphique dynamique</title>
    <link href="http://sebte.github.io/example-8"/>
    <id>http://sebte.github.io/example-8</id>
    <updated>2015-02-15T00:00:00+01:00</updated>
    <content type="html">&lt;p&gt;Let’s test some of javascprit libraries for infographics :) Start with &lt;a href=&quot;http://www.highcharts.com/&quot;&gt;Highcharts.js&lt;/a&gt; lalala High charts fonctionne avec Jekkyl !!&lt;/p&gt; &lt;!---&lt;div id=&quot;container&quot; style=&quot;min-width: 310px; height: 400px; margin: 0 auto&quot;&gt;--&gt; &lt;div id=&quot;container&quot; style=&quot;width: 600px; height: 400px; margin: 0 auto&quot;&gt; &lt;/div&gt; &lt;script type=&quot;text/javascript&quot;&gt; //$(function () { $(&#39;#container&#39;).highcharts({ title: { text: &#39;Monthly Average...</content>
+=======
+   <title>Example 8</title>
+   <link href="http://sebte.github.io/example-8"/>
+   <id>http://sebte.github.io/example-8</id>
+   <updated>2015-02-15T00:00:00+01:00</updated>
+   <content type="html">&lt;p&gt;Let’s test some of javascprit libraries for infographics :) Start with &lt;a href=&quot;http://www.highcharts.com/&quot;&gt;Highcharts.js&lt;/a&gt;. &lt;script type=&quot;text/javascript&quot; src=&quot;http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/highcharts.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/modules/exporting.js&quot;&gt; &lt;/script&gt;&lt;/p&gt; &lt;!---&lt;div id=&quot;container&quot; style=&quot;min-width: 310px; height: 400px; margin: 0 auto&quot;&gt;--&gt; &lt;div id=&quot;container&quot; style=&quot;width: 600px; height: 400px; margin: 0 auto&quot;&gt; &lt;/div&gt; &lt;script type=&quot;text/javascript&quot;&gt; //$(function () { $(&#39;#container&#39;).highcharts({...</content>
+>>>>>>> a33998509d019c9158d34ef7605a8182fc9e3a37
  </entry>
 
  
@@ -88,7 +100,7 @@
    <link href="http://sebte.github.io/example-4"/>
    <id>http://sebte.github.io/example-4</id>
    <updated>2015-02-15T00:00:00+01:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <content type="html">&lt;h2 id=&quot;caractristiques-du-march-du-travail-de-mon-territoire&quot;&gt;Caractéristiques du marché du travail de mon territoire &lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;Les éléments du Diagnostic Socio-économique sont stables. Cette partie utilise notamment les éléments de l’étude COPAC (Centre d’Observation pour l’Activité Economique du Val-de-Marne) : Physionomie du tissu Economique du Val-de-Marne. Nous y avons également adjoint des éléments complémentaires issus du diagnostic...</content>
  </entry>
 
  
@@ -107,6 +119,19 @@
    <title>Example 2</title>
    <link href="http://sebte.github.io/example-2"/>
    <id>http://sebte.github.io/example-2</id>
+<<<<<<< HEAD
+=======
+   <updated>2015-02-15T00:00:00+01:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Example 1</title>
+   <link href="http://sebte.github.io/example-1"/>
+   <id>http://sebte.github.io/example-1</id>
+>>>>>>> a33998509d019c9158d34ef7605a8182fc9e3a37
    <updated>2015-02-15T00:00:00+01:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
