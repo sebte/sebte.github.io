@@ -4,7 +4,7 @@
  <title>Sebte| A simple Jekyll site to test little projets based on emeral template</title>
  <link href="http://sebte.github.io/atom.xml" rel="self"/>
  <id>http://sebte.github.io</id>
- <updated>2015-08-16T10:34:31+02:00</updated>
+ <updated>2015-08-16T10:50:36+02:00</updated>
  <author>
    <name>Seb Te</name>
    <uri>http://sebte.github.io</uri>
@@ -14,11 +14,11 @@
  
 
  <entry>
-   <title>Un graphique dynamique</title>
+   <title>Evolution du taux de chômage</title>
    <link href="http://sebte.github.io/example-8"/>
    <id>http://sebte.github.io/example-8</id>
    <updated>2015-07-15T00:00:00+02:00</updated>
-   <content type="html">&lt;p&gt;Let’s test some of javascprit libraries for infographics :) Start with &lt;a href=&quot;http://www.highcharts.com/&quot;&gt;Highcharts.js&lt;/a&gt; lalala. High charts fonctionne avec Jekkyl !!&lt;/p&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/highcharts.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/modules/exporting.js&quot;&gt; &lt;/script&gt; &lt;!---&lt;div id=&quot;container&quot; style=&quot;min-width: 310px; height: 400px; margin: 0 auto&quot;&gt;--&gt; &lt;div id=&quot;container2&quot; style=&quot;width: 600px; height: 400px; margin: 0 auto&quot;&gt;...</content>
+   <content type="html">&lt;p&gt;Evolution du taux de chômage - Comparaison Val de Marne France Métropolitaine représentée avec &lt;a href=&quot;http://www.highcharts.com/&quot;&gt;Highcharts.js&lt;/a&gt;.&lt;/p&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/highcharts.js&quot;&gt; &lt;/script&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.highcharts.com/modules/exporting.js&quot;&gt; &lt;/script&gt; &lt;!---&lt;div id=&quot;container&quot; style=&quot;min-width: 310px; height: 400px; margin: 0 auto&quot;&gt;--&gt; &lt;div id=&quot;container2&quot; style=&quot;width: 600px; height: 400px; margin: 0 auto&quot;&gt; &lt;/div&gt; &lt;script type=&quot;text/javascript&quot;&gt; //$(function...</content>
  </entry>
 
  
@@ -44,7 +44,7 @@
  
 
  <entry>
-   <title>Example 8</title>
+   <title>Test highcharts</title>
    <link href="http://sebte.github.io/example-8"/>
    <id>http://sebte.github.io/example-8</id>
    <updated>2015-02-15T00:00:00+01:00</updated>
