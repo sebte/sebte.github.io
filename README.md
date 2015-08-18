@@ -1,7 +1,15 @@
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Le but de ce site est de publier quelques représentations graphiques issues de données en OPEN DATA autour de l'emploi en testant quelques frameworks javascripts ou web apps (Highcharts, D3, Cartodb....)
 
-![Emerald](/img/Emerald01.png "Emerald")
+Il utilise aussi le template
+Ememrald pour jekyll conçu par
+
+Jacopo Rabolini
+
+- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
+- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
+
+
 
 ## Setup & usage
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
@@ -39,14 +47,7 @@ You can change the "baseurl" value into the ``config.yml`` file, to match your d
 ### Typography
 To maintain the vertical rhythm, it has been applied a **Typographic scale** as a modular scale, with a baseline set to 24px. To maintain this rhythm you need to insert elements like image, video or other contents with a 24px (or multiple) height as refer.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
 
-## Author
-
-### Jacopo Rabolini
-
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
 
 ## License
 Emerald is released under [MIT License](license.md).

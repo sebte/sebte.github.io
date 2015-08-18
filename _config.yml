@@ -1,6 +1,6 @@
 # Site settings
-title: Sebte| A simple Jekyll site to test little projets based on emeral template
-description: "A minimal blog template, build with Jekyll."
+title: Sebte| A simple  site to test little projets based on open data and build with jekyll and emerald template
+description: "A minimal blog"
 url: "http://sebte.github.io"
 author:
   name: "Seb Te"
